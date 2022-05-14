@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url("123.jpg");
+}
+
+.choice-player-1, .choice-player-2{
+    height: 200px;
+    width: 200px;
+    background-color: #89E660;
+    border-radius: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    height: 300px;
+    border: 1px solid #6FE13D;
+    border-radius: 10%;
+    background-color: white;
+    position: absolute;
+    opacity: 0;
+}
+.borderOld {
+    border: 1px solid #69D3D2;
+    border-radius: 10%;
+}
